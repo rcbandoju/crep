@@ -3,8 +3,8 @@
 {
 main()
 int a,b,c;
-a=13;
 b=22;
+a=11;
 c=a+b;
 printf("result of %d",c);
 getch()
